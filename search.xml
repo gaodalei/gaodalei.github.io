@@ -4,17 +4,23 @@
   
     
     <entry>
-      <title>用家里的TP_Link来一次端口映射</title>
-      <link href="2021/01/19/%E2%80%98%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84%E2%80%99/"/>
-      <url>2021/01/19/%E2%80%98%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84%E2%80%99/</url>
+      <title>两个端口映射测试</title>
+      <link href="2021/01/16/%E2%80%98%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84%E2%80%99/"/>
+      <url>2021/01/16/%E2%80%98%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84%E2%80%99/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="一、使用花生壳将本地发布的博客映射到互联网上"><a href="#一、使用花生壳将本地发布的博客映射到互联网上" class="headerlink" title="一、使用花生壳将本地发布的博客映射到互联网上"></a>一、使用花生壳将本地发布的博客映射到互联网上</h1><h2 id="1-起本地博客服务"><a href="#1-起本地博客服务" class="headerlink" title="1.起本地博客服务"></a>1.起本地博客服务</h2><p><code>cd f:hexo</code> cd到hexo安装目录<br><code> hexo g</code> 生成博客<br><code> hexo s</code>  启动本地服务此时可在localhost:4000访问</p><h2 id="2-在花生壳控制台输入内网主机ip地址和内网端口号"><a href="#2-在花生壳控制台输入内网主机ip地址和内网端口号" class="headerlink" title="2.在花生壳控制台输入内网主机ip地址和内网端口号"></a>2.在花生壳控制台输入内网主机ip地址和内网端口号</h2><p>这里输入127.0.0.1:4000<br><img src="https://ftp.bmp.ovh/imgs/2021/01/1a1154c355b4ec03.jpg"><br>点击确定，映射完毕。</p><h2 id="3-检验映射结果"><a href="#3-检验映射结果" class="headerlink" title="3.检验映射结果"></a>3.检验映射结果</h2><p>输入花生壳自动生成的外网域名及端口号。<br><img src="https://ftp.bmp.ovh/imgs/2021/01/0be705acccf44fbb.jpg"></p><h2 id="over。"><a href="#over。" class="headerlink" title="over。"></a>over。</h2><h1 id="二、使用路由器将单位的视频监控映射到政务外网"><a href="#二、使用路由器将单位的视频监控映射到政务外网" class="headerlink" title="二、使用路由器将单位的视频监控映射到政务外网"></a>二、使用路由器将单位的视频监控映射到政务外网</h1>]]></content>
       
+      
+      <categories>
+          
+          <category> 网络 </category>
+          
+      </categories>
       
       
         <tags>
             
-            <tag> 映射 </tag>
+            <tag> 测试 </tag>
             
         </tags>
       
