@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>初始Oracle RAC</title>
+      <link href="2021/02/06/Oraclerac/"/>
+      <url>2021/02/06/Oraclerac/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Cluster 基本概念：<br>Cluster:通过互连的节点，而对外只提供单个 server<br>Cluster 的特点：<br>HA （High Available）：<br>1、容错（Failover）<br>2、负载均衡（Balance）<br>HA 环境： 双机热备（其中一个节点 Active，一个节点 Standby）<br>双机互备 （两个节点都处于 Active）<br>RAC ：Real Application Cluster（OPS）<br>RAC 特点：一个 database，可以由多个 instance 访问，每个节点有个 instance<br>CRS： Cluster Ready Service ，Oracle 集群软件<br>GRID：网格管理，可以通过 GRID 架构集中管理 RAC 节点</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Oracle </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Oracle </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>白夜惊雷 序章</title>
       <link href="2021/02/01/%E7%99%BD%E5%A4%9C%E6%83%8A%E9%9B%B7/"/>
       <url>2021/02/01/%E7%99%BD%E5%A4%9C%E6%83%8A%E9%9B%B7/</url>
