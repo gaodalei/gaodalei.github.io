@@ -4,11 +4,36 @@
   
     
     <entry>
+      <title>麻辣拌</title>
+      <link href="2021/02/20/%E6%88%91%E7%9A%84%E5%8E%A8%E8%89%BA/"/>
+      <url>2021/02/20/%E6%88%91%E7%9A%84%E5%8E%A8%E8%89%BA/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><a href="https://imgchr.com/i/yIIbRA"><img src="https://s3.ax1x.com/2021/02/20/yIIbRA.md.jpg" alt="yIIbRA.md.jpg"></a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 厨艺 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 厨艺 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>初识Oracle RAC</title>
       <link href="2021/02/06/Oraclerac/"/>
       <url>2021/02/06/Oraclerac/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="几个基本概念"><a href="#几个基本概念" class="headerlink" title="几个基本概念"></a>几个基本概念</h1><p>Cluster 基本概念：<br>Cluster:通过互连的节点，而对外只提供单个 server<br>Cluster 的特点：<br>HA （High Available）：<br>1、容错（Failover）<br>2、负载均衡（Balance）<br>HA 环境： 双机热备（其中一个节点 Active，一个节点 Standby）<br>双机互备 （两个节点都处于 Active）<br>所谓双机热备，其构造思想是主机和从机通过TCP/IP网络连接，正常情况下主机处于工作状态，从机处于监视状态，一旦从机发现主机异常，从机将会在很短的时间之内代替主机，完全实现主机的功能。<br>RAC ：Real Application Cluster（OPS）<br>RAC 特点：一个 database，可以由多个 instance 访问，每个节点有个 instance<br>CRS： Cluster Ready Service ，Oracle 集群软件<br>GRID：网格管理，可以通过 GRID 架构集中管理 RAC 节点</p><p>Continue…</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Some-Concept"><a href="#Some-Concept" class="headerlink" title="Some Concept"></a>Some Concept</h1><p>Cluster 基本概念：<br>Cluster:通过互连的节点，而对外只提供单个 server<br>Cluster 的特点：<br>HA （High Available）：<br>1、容错（Failover）<br>2、负载均衡（Balance）<br>HA 环境： 双机热备（其中一个节点 Active，一个节点 Standby）<br>双机互备 （两个节点都处于 Active）<br>所谓双机热备，其构造思想是主机和从机通过TCP/IP网络连接，正常情况下主机处于工作状态，从机处于监视状态，一旦从机发现主机异常，从机将会在很短的时间之内代替主机，完全实现主机的功能。<br>RAC ：Real Application Cluster（OPS）<br>RAC 特点：一个 database，可以由多个 instance 访问，每个节点有个 instance<br>CRS： Cluster Ready Service ，Oracle 集群软件<br>GRID：网格管理，可以通过 GRID 架构集中管理 RAC 节点</p><p>Continue…</p>]]></content>
       
       
       <categories>
