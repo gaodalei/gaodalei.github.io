@@ -4,17 +4,23 @@
   
     
     <entry>
-      <title>买《赛博朋克2077》有感</title>
-      <link href="2021/02/22/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077/"/>
-      <url>2021/02/22/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077/</url>
+      <title>用Adobe Premiere制作漫威电影开头动画</title>
+      <link href="2021/03/03/PR%E5%88%B6%E4%BD%9C%E6%BC%AB%E5%A8%81%E5%BC%80%E5%A4%B4/"/>
+      <url>2021/03/03/PR%E5%88%B6%E4%BD%9C%E6%BC%AB%E5%A8%81%E5%BC%80%E5%A4%B4/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><font face="微软雅黑" size=25><center><p>预告片真是精彩，<br>看得我心花怒放。<br>懒得搜破解补丁，<br>直接买正版预定。<br>买游戏后懒得下，<br>想看视频云通关。<br>无奈视频臭又长，<br>不如关机睡大觉。</p></center></font><p><a href="https://imgchr.com/i/yTLbt0"><img src="https://s3.ax1x.com/2021/02/22/yTLbt0.jpg" alt="yTLbt0.jpg"></a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="why？"><a href="#why？" class="headerlink" title="why？"></a>why？</h1><p>——老婆想弄个说电影的自媒体，我得仿照漫威电影给做个视频开头。</p><h1 id="Just-test-demo——"><a href="#Just-test-demo——" class="headerlink" title="Just test demo——"></a>Just test demo——</h1><h2 id="step-1-Prepare-some-pics-and-music"><a href="#step-1-Prepare-some-pics-and-music" class="headerlink" title="step 1: Prepare some pics and music."></a>step 1: Prepare some pics and music.</h2><p><a href="https://imgtu.com/i/6kLKOK"><img src="https://s3.ax1x.com/2021/03/03/6kLKOK.jpg" alt="6kLKOK.jpg"></a></p><h2 id="step-2-Insert"><a href="#step-2-Insert" class="headerlink" title="step 2: Insert"></a>step 2: Insert</h2><p><a href="https://imgtu.com/i/6kLGYd"><img src="https://s3.ax1x.com/2021/03/03/6kLGYd.png" alt="6kLGYd.png"></a></p><h2 id="step-3-Choose-all-pics-and-set-duration，then-copy-and-paste-them-after-the-first-part"><a href="#step-3-Choose-all-pics-and-set-duration，then-copy-and-paste-them-after-the-first-part" class="headerlink" title="step 3: Choose all pics and set duration，then copy and paste  them after the first part."></a>step 3: Choose all pics and set duration，then copy and paste  them after the first part.</h2><p><a href="https://imgtu.com/i/6kLNlt"><img src="https://s3.ax1x.com/2021/03/03/6kLNlt.png" alt="6kLNlt.png"></a></p><h2 id="step-4-设置照片从上往下移动效果："><a href="#step-4-设置照片从上往下移动效果：" class="headerlink" title="step 4: 设置照片从上往下移动效果："></a>step 4: 设置照片从上往下移动效果：</h2><p>视频效果——变换——位置——关键帧begain：设置Y值，使在第一张图片下部位置正好处于视频区域最上方；关键帧end：设置Y值为初始值。</p><p><a href="https://imgtu.com/i/6kL260"><img src="https://s3.ax1x.com/2021/03/03/6kL260.png" alt="6kL260.png"></a></p><h2 id="step-5-设置照片移动时的模糊效果"><a href="#step-5-设置照片移动时的模糊效果" class="headerlink" title="step 5:  设置照片移动时的模糊效果"></a>step 5:  设置照片移动时的模糊效果</h2><p>视频效果—变换——快门角度：自行设置一个合适值。</p><p><a href="https://imgtu.com/i/6kLRXV"><img src="https://s3.ax1x.com/2021/03/03/6kLRXV.png" alt="6kLRXV.png"></a></p><h2 id="step-6-把第一张照片的效果应用到第一部分的所有照片上，然后上移到V2轨道，把后边的照片移动到其下方，正好错开一个照片位置。"><a href="#step-6-把第一张照片的效果应用到第一部分的所有照片上，然后上移到V2轨道，把后边的照片移动到其下方，正好错开一个照片位置。" class="headerlink" title="step 6: 把第一张照片的效果应用到第一部分的所有照片上，然后上移到V2轨道，把后边的照片移动到其下方，正好错开一个照片位置。"></a>step 6: 把第一张照片的效果应用到第一部分的所有照片上，然后上移到V2轨道，把后边的照片移动到其下方，正好错开一个照片位置。</h2><p><a href="https://imgtu.com/i/6kL47F"><img src="https://s3.ax1x.com/2021/03/03/6kL47F.png" alt="6kL47F.png"></a></p><h2 id="step-7-输入文字，并设置文字动态由大变小，增加键控显示，透明度变化，增加遮罩。"><a href="#step-7-输入文字，并设置文字动态由大变小，增加键控显示，透明度变化，增加遮罩。" class="headerlink" title="step 7:输入文字，并设置文字动态由大变小，增加键控显示，透明度变化，增加遮罩。"></a>step 7:输入文字，并设置文字动态由大变小，增加键控显示，透明度变化，增加遮罩。</h2><p><a href="https://imgtu.com/i/6kLIk4"><img src="https://s3.ax1x.com/2021/03/03/6kLIk4.png" alt="6kLIk4.png"></a></p><h2 id="step-8-Add-the-music-：bgm-for-wonderwomen-《Is-she-with-you》"><a href="#step-8-Add-the-music-：bgm-for-wonderwomen-《Is-she-with-you》" class="headerlink" title="step 8: Add the music ：bgm for wonderwomen~《Is she with you》"></a>step 8: Add the music ：bgm for wonderwomen~《Is she with you》</h2><p><a href="https://imgtu.com/i/6kOP1I"><img src="https://s3.ax1x.com/2021/03/03/6kOP1I.png" alt="6kOP1I.png"></a></p><h2 id="Last-Export，over！视频我已经上传B站，具体效果请如下："><a href="#Last-Export，over！视频我已经上传B站，具体效果请如下：" class="headerlink" title="Last : Export，over！视频我已经上传B站，具体效果请如下："></a>Last : Export，over！视频我已经上传B站，具体效果请如下：</h2><iframe     width="1280"     height="720"     src='https://www.bilibili.com/video/BV16i4y1N7DE'    frameborder="0"     allowfullscreen></iframe>]]></content>
       
+      
+      <categories>
+          
+          <category> Premiere </category>
+          
+      </categories>
       
       
         <tags>
             
-            <tag> 我的诗 </tag>
+            <tag> Premiere </tag>
             
         </tags>
       
@@ -48,6 +54,31 @@
     
     
     <entry>
+      <title>两个端口映射实例</title>
+      <link href="2021/02/16/%E2%80%98%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84%E2%80%99/"/>
+      <url>2021/02/16/%E2%80%98%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84%E2%80%99/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="端口映射：端口映射就是将外网主机的IP地址的一个端口映射到内网中一台机器，提供相应的服务。当用户访问该IP的这个端口时，服务器自动将请求映射到对应局域网内部的机器上。"><a href="#端口映射：端口映射就是将外网主机的IP地址的一个端口映射到内网中一台机器，提供相应的服务。当用户访问该IP的这个端口时，服务器自动将请求映射到对应局域网内部的机器上。" class="headerlink" title="端口映射：端口映射就是将外网主机的IP地址的一个端口映射到内网中一台机器，提供相应的服务。当用户访问该IP的这个端口时，服务器自动将请求映射到对应局域网内部的机器上。"></a>端口映射：端口映射就是将外网主机的IP地址的一个端口映射到内网中一台机器，提供相应的服务。当用户访问该IP的这个端口时，服务器自动将请求映射到对应局域网内部的机器上。</h1><h1 id="使用花生壳将本地发布的博客映射到互联网上"><a href="#使用花生壳将本地发布的博客映射到互联网上" class="headerlink" title="使用花生壳将本地发布的博客映射到互联网上"></a>使用花生壳将本地发布的博客映射到互联网上</h1><h2 id="起本地博客服务"><a href="#起本地博客服务" class="headerlink" title="起本地博客服务"></a>起本地博客服务</h2><p><code>cd f:hexo</code> cd到hexo安装目录<br><code> hexo g</code> 生成博客<br><code> hexo s</code>  启动本地服务此时可在localhost:4000访问</p><h2 id="在花生壳控制台输入内网主机ip地址和内网端口号"><a href="#在花生壳控制台输入内网主机ip地址和内网端口号" class="headerlink" title="在花生壳控制台输入内网主机ip地址和内网端口号"></a>在花生壳控制台输入内网主机ip地址和内网端口号</h2><p>这里输入127.0.0.1:4000<br><img src="https://s3.ax1x.com/2021/02/01/yeJKhQ.jpg"><br>点击确定，映射完毕。</p><h2 id="检验映射结果"><a href="#检验映射结果" class="headerlink" title="检验映射结果"></a>检验映射结果</h2><p>输入花生壳自动生成的外网域名及端口号。<br><img src="https://s3.ax1x.com/2021/02/01/yeJUNF.jpg"></p><h2 id="over。"><a href="#over。" class="headerlink" title="over。"></a>over。</h2><h1 id="使用路由器将单位的视频监控映射到局内网"><a href="#使用路由器将单位的视频监控映射到局内网" class="headerlink" title="使用路由器将单位的视频监控映射到局内网"></a>使用路由器将单位的视频监控映射到局内网</h1><h2 id="wan口接局内网，转发来自监控-LAN-接口的-IP-数据包"><a href="#wan口接局内网，转发来自监控-LAN-接口的-IP-数据包" class="headerlink" title="wan口接局内网，转发来自监控 LAN 接口的 IP 数据包"></a>wan口接局内网，转发来自监控 LAN 接口的 IP 数据包</h2><h2 id="lan口接监控硬盘刻录机"><a href="#lan口接监控硬盘刻录机" class="headerlink" title="lan口接监控硬盘刻录机"></a>lan口接监控硬盘刻录机</h2><h2 id="进入tplink控制台，找到-虚拟服务器-，点击-添加-，常用服务器设置为http-外部端口设置为8080-内部端口设置为80，Ip地址-设置为10-16-145-254-协议类型设置为TCP，点击保存。"><a href="#进入tplink控制台，找到-虚拟服务器-，点击-添加-，常用服务器设置为http-外部端口设置为8080-内部端口设置为80，Ip地址-设置为10-16-145-254-协议类型设置为TCP，点击保存。" class="headerlink" title="进入tplink控制台，找到  虚拟服务器  ，点击 添加  ，常用服务器设置为http ,外部端口设置为8080,内部端口设置为80，Ip地址 设置为10.16.145.254,协议类型设置为TCP，点击保存。"></a>进入tplink控制台，找到  <code>虚拟服务器 </code> ，点击 <code>添加</code>  ，<code>常用服务器</code>设置为<code>http</code> ,<code>外部端口</code>设置为<code>8080</code>,<code>内部端口</code>设置为<code>80</code>，<code>Ip地址 </code>设置为<code>10.16.145.254</code>,<code>协议类型</code>设置为<code>TCP</code>，点击保存。</h2><h2 id="在中心随便找一台上局内网的电脑，输入http：-10-16-145-254-8080-即可访问监控后台。"><a href="#在中心随便找一台上局内网的电脑，输入http：-10-16-145-254-8080-即可访问监控后台。" class="headerlink" title="在中心随便找一台上局内网的电脑，输入http：//10.16.145.254:8080,即可访问监控后台。"></a>在中心随便找一台上局内网的电脑，输入<code>http：//10.16.145.254:8080</code>,即可访问监控后台。</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>初识Oracle RAC</title>
       <link href="2021/02/06/Oraclerac/"/>
       <url>2021/02/06/Oraclerac/</url>
@@ -73,9 +104,28 @@
     
     
     <entry>
+      <title>买《赛博朋克2077》有感</title>
+      <link href="2021/01/22/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077/"/>
+      <url>2021/01/22/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><font face="微软雅黑" size=25><center><p>预告片真是精彩，<br>看得我心花怒放。<br>懒得搜破解补丁，<br>直接买正版预定。<br>买游戏后懒得下，<br>想看视频云通关。<br>无奈视频臭又长，<br>不如关机睡大觉。</p></center></font><p><a href="https://imgchr.com/i/yTLbt0"><img src="https://s3.ax1x.com/2021/02/22/yTLbt0.jpg" alt="yTLbt0.jpg"></a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 我的诗 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>白夜惊雷 序章</title>
-      <link href="2021/02/01/%E7%99%BD%E5%A4%9C%E6%83%8A%E9%9B%B7/"/>
-      <url>2021/02/01/%E7%99%BD%E5%A4%9C%E6%83%8A%E9%9B%B7/</url>
+      <link href="2019/02/01/%E7%99%BD%E5%A4%9C%E6%83%8A%E9%9B%B7/"/>
+      <url>2019/02/01/%E7%99%BD%E5%A4%9C%E6%83%8A%E9%9B%B7/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="序章-血染凤鸣"><a href="#序章-血染凤鸣" class="headerlink" title="序章 血染凤鸣"></a>序章 血染凤鸣</h1><p>　　某历999年，夏至。</p><p>　　三伏暑天，皎阳似火。</p><p>　　凤鸣城外。</p><p>　　十里红毯，百乐奏鸣，千卫护道，万里飘花。</p><p>　　凤鸣城城楼，下起红河畔，高达云峰顶。楼顶用玉石筑一尊凤凰，双翅遮天，目漏凶煞，喙锋似刃，名曰玉凤。传言每有惊天之变，便发哀嚎之凤鸣。</p><p>　　此时，玉凤双翅左右各站一人。　</p><p>　　一个头冠两根凤羽，面遮白纱，身着蝉衫，腰系麟带，双臂拢剑，面似冰霜，盯着城外的队伍。</p><p>　　一个头戴狗尾斗笠，身批蓑衣，脚踏芒鞋，席地而坐，慢慢将脑袋从酒罐拔了出来，醉醺醺的站了起来，吐了一口酒，道：</p><p>　　“王侯将相，真是笑话，一群没种的窝囊废！”</p><p>　　“纵可换取一世荣华，这单子也接不得。”</p><p>　　“还用你讲。西沙国三千铁骑护行，个个装备精良，训练有素，毫无破绽。还有，你瞪大眼睛好好瞅瞅，队伍后面的马车里还挂着天音寺的图饰，不出意外那里面正有个天音寺的秃子在他娘的打坐。”</p><p>　　“哎，咱们走吧，脑袋要紧”,另一个男子转过头来望向蓑衣少年。</p><p>　　“慢着！今儿个酒吃起来够过瘾，老子心情好，想试试。”说罢，蓑衣少年从身旁拿起一把大刀跳了下去，身后刮起一阵飓风。</p><p>　　漫山云雾，随风吹散，只遮半山。</p><p>　　“起——”</p>]]></content>
       
@@ -90,31 +140,6 @@
         <tags>
             
             <tag> 小说 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>两个端口映射实例</title>
-      <link href="2021/01/16/%E2%80%98%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84%E2%80%99/"/>
-      <url>2021/01/16/%E2%80%98%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84%E2%80%99/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="端口映射：端口映射就是将外网主机的IP地址的一个端口映射到内网中一台机器，提供相应的服务。当用户访问该IP的这个端口时，服务器自动将请求映射到对应局域网内部的机器上。"><a href="#端口映射：端口映射就是将外网主机的IP地址的一个端口映射到内网中一台机器，提供相应的服务。当用户访问该IP的这个端口时，服务器自动将请求映射到对应局域网内部的机器上。" class="headerlink" title="端口映射：端口映射就是将外网主机的IP地址的一个端口映射到内网中一台机器，提供相应的服务。当用户访问该IP的这个端口时，服务器自动将请求映射到对应局域网内部的机器上。"></a>端口映射：端口映射就是将外网主机的IP地址的一个端口映射到内网中一台机器，提供相应的服务。当用户访问该IP的这个端口时，服务器自动将请求映射到对应局域网内部的机器上。</h1><h1 id="使用花生壳将本地发布的博客映射到互联网上"><a href="#使用花生壳将本地发布的博客映射到互联网上" class="headerlink" title="使用花生壳将本地发布的博客映射到互联网上"></a>使用花生壳将本地发布的博客映射到互联网上</h1><h2 id="起本地博客服务"><a href="#起本地博客服务" class="headerlink" title="起本地博客服务"></a>起本地博客服务</h2><p><code>cd f:hexo</code> cd到hexo安装目录<br><code> hexo g</code> 生成博客<br><code> hexo s</code>  启动本地服务此时可在localhost:4000访问</p><h2 id="在花生壳控制台输入内网主机ip地址和内网端口号"><a href="#在花生壳控制台输入内网主机ip地址和内网端口号" class="headerlink" title="在花生壳控制台输入内网主机ip地址和内网端口号"></a>在花生壳控制台输入内网主机ip地址和内网端口号</h2><p>这里输入127.0.0.1:4000<br><img src="https://s3.ax1x.com/2021/02/01/yeJKhQ.jpg"><br>点击确定，映射完毕。</p><h2 id="检验映射结果"><a href="#检验映射结果" class="headerlink" title="检验映射结果"></a>检验映射结果</h2><p>输入花生壳自动生成的外网域名及端口号。<br><img src="https://s3.ax1x.com/2021/02/01/yeJUNF.jpg"></p><h2 id="over。"><a href="#over。" class="headerlink" title="over。"></a>over。</h2><h1 id="使用路由器将单位的视频监控映射到局内网"><a href="#使用路由器将单位的视频监控映射到局内网" class="headerlink" title="使用路由器将单位的视频监控映射到局内网"></a>使用路由器将单位的视频监控映射到局内网</h1><h2 id="wan口接局内网，转发来自监控-LAN-接口的-IP-数据包"><a href="#wan口接局内网，转发来自监控-LAN-接口的-IP-数据包" class="headerlink" title="wan口接局内网，转发来自监控 LAN 接口的 IP 数据包"></a>wan口接局内网，转发来自监控 LAN 接口的 IP 数据包</h2><h2 id="lan口接监控硬盘刻录机"><a href="#lan口接监控硬盘刻录机" class="headerlink" title="lan口接监控硬盘刻录机"></a>lan口接监控硬盘刻录机</h2><h2 id="进入tplink控制台，找到-虚拟服务器-，点击-添加-，常用服务器设置为http-外部端口设置为8080-内部端口设置为80，Ip地址-设置为10-16-145-254-协议类型设置为TCP，点击保存。"><a href="#进入tplink控制台，找到-虚拟服务器-，点击-添加-，常用服务器设置为http-外部端口设置为8080-内部端口设置为80，Ip地址-设置为10-16-145-254-协议类型设置为TCP，点击保存。" class="headerlink" title="进入tplink控制台，找到  虚拟服务器  ，点击 添加  ，常用服务器设置为http ,外部端口设置为8080,内部端口设置为80，Ip地址 设置为10.16.145.254,协议类型设置为TCP，点击保存。"></a>进入tplink控制台，找到  <code>虚拟服务器 </code> ，点击 <code>添加</code>  ，<code>常用服务器</code>设置为<code>http</code> ,<code>外部端口</code>设置为<code>8080</code>,<code>内部端口</code>设置为<code>80</code>，<code>Ip地址 </code>设置为<code>10.16.145.254</code>,<code>协议类型</code>设置为<code>TCP</code>，点击保存。</h2><h2 id="在中心随便找一台上局内网的电脑，输入http：-10-16-145-254-8080-即可访问监控后台。"><a href="#在中心随便找一台上局内网的电脑，输入http：-10-16-145-254-8080-即可访问监控后台。" class="headerlink" title="在中心随便找一台上局内网的电脑，输入http：//10.16.145.254:8080,即可访问监控后台。"></a>在中心随便找一台上局内网的电脑，输入<code>http：//10.16.145.254:8080</code>,即可访问监控后台。</h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> 网络 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 测试 </tag>
             
         </tags>
       
@@ -140,31 +165,6 @@
         <tags>
             
             <tag> JavaScript </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>黑魂语录</title>
-      <link href="2001/01/16/darksouls/"/>
-      <url>2001/01/16/darksouls/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="火之将熄，然位不见王影。"><a href="#火之将熄，然位不见王影。" class="headerlink" title="火之将熄，然位不见王影。"></a>火之将熄，然位不见王影。</h1><p><img src="http://pic1.win4000.com/wallpaper/c/58f42d73baf50.jpg"></p>        <div id="aplayer-jvNCOAtN" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-jvNCOAtN"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "她的睫毛",              author: "周杰伦",              url: "http://home.ustc.edu.cn/~mmmwhy/%d6%dc%bd%dc%c2%d7%20-%20%cb%fd%b5%c4%bd%de%c3%ab.mp3",              pic: "http://home.ustc.edu.cn/~mmmwhy/jay.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1367368790&auto=1&height=66"></iframe>]]></content>
-      
-      
-      <categories>
-          
-          <category> 测试 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 测试 </tag>
             
         </tags>
       
