@@ -123,6 +123,31 @@
     
     
     <entry>
+      <title>butterfly主题文字和图片Markdown配置</title>
+      <link href="2019/02/22/butterfly%E4%B8%BB%E9%A2%98%E6%96%87%E5%AD%97%E5%92%8C%E5%9B%BE%E7%89%87Markdown%E9%85%8D%E7%BD%AE/"/>
+      <url>2019/02/22/butterfly%E4%B8%BB%E9%A2%98%E6%96%87%E5%AD%97%E5%92%8C%E5%9B%BE%E7%89%87Markdown%E9%85%8D%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Text-Style："><a href="#Text-Style：" class="headerlink" title="Text Style："></a>Text Style：</h1><div class="note default flat"><p>default </p></div><div class="note primary no-icon flat"><p>primary </p></div><div class="note success flat"><p>success </p></div><div class="note info flat"><p>info </p></div><div class="note warning flat"><p>warning </p></div><div class="note danger flat"><p>danger </p></div><h1 id="Pic-Style"><a href="#Pic-Style" class="headerlink" title="Pic Style"></a>Pic Style</h1><h2 id="可以根据照片尺寸，自动排列。"><a href="#可以根据照片尺寸，自动排列。" class="headerlink" title="可以根据照片尺寸，自动排列。"></a>可以根据照片尺寸，自动排列。</h2><p>效果：</p><div class="justified-gallery"><p><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fm.diyijuzi.com%2Fdiyijuzi%2Fuploads%2Fallimg%2F150824%2F3_150824151224_1.jpg&refer=http%3A%2F%2Fm.diyijuzi.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1617338954&t=8b3cdb930d04fd1fd837334f5e1306ed"><br><img src="https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/baike/w=268/sign=6655b8f13f12b31bc76cca2fbe193674/a8ec8a13632762d0e2db8009a6ec08fa503dc69a.jpg"><br><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.big5.dbw.cn%2F0%2F08%2F79%2F94%2F8799421_580117.jpg&refer=http%3A%2F%2Fpic.big5.dbw.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1617338722&t=788e814817c5616aadb318e927e8b102"><br><img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3153513090,147174085&fm=26&gp=0.jpg"><br><img src="https://www.ivsky.com/bizhi/avengers_endgame_v56806/pic_887554.html#al_tit"><br><img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3239610548,2829365940&fm=26&gp=0.jpg"><br><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F201907%2F11%2F20190711233433_fmdee.thumb.400_0.jpg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1617339000&t=7929d4c66885393558770f0ab128a532"><br><img src="https://img-pre.ivsky.com/img/bizhi/pre/201906/23/avengers_endgame-008.jpg"></p>          </div>]]></content>
+      
+      
+      <categories>
+          
+          <category> Git </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>白夜惊雷 序章</title>
       <link href="2019/02/01/%E7%99%BD%E5%A4%9C%E6%83%8A%E9%9B%B7/"/>
       <url>2019/02/01/%E7%99%BD%E5%A4%9C%E6%83%8A%E9%9B%B7/</url>
